@@ -1207,7 +1207,7 @@ function checkSUB(host) {
 			'www.visa.com.sg:2087#美国5',
 			'www.visaeurope.at:2096#美国6',
 			'www.visa.com.mt:8443#美国7',
-			'qa.visamiddleeast.com#美国8',
+			'qa.visamiddleeast.com#美国8'
 		];
 		if (host.includes(".workers.dev")) addressesnotls = [
 			'usa.visa.com:2095',
@@ -1215,7 +1215,7 @@ function checkSUB(host) {
 			'www.visa.com.tw:8880',
 			'www.visaeurope.ch:2052',
 			'www.visa.com.br:2082',
-			'www.visasoutheasteurope.com:2086',
+			'www.visasoutheasteurope.com:2086'
 		];
 	}
 }
